@@ -1,11 +1,9 @@
-import product1 from "./assets/products/1.png";
-import product2 from "./assets/products/2.png";
-import product3 from "./assets/products/3.png";
-import product4 from "./assets/products/4.png";
-import product5 from "./assets/products/5.png";
-import product6 from "./assets/products/6.png";
-import product7 from "./assets/products/7.png";
-import product8 from "./assets/products/8.png";
+import product1 from "./assets/products/1.jpg";
+import product2 from "./assets/products/2.jpg";
+import product3 from "./assets/products/3.jpg";
+import product4 from "./assets/products/4.jpg";
+import product5 from "./assets/products/5.jpg";
+import product6 from "./assets/products/6.jpg";
 
 export const PRODUCTS = [
   {
@@ -44,16 +42,5 @@ export const PRODUCTS = [
     price: 199.99,
     productImage: product6,
   },
-  {
-    id: 7,
-    productName: "Leather Jacket",
-    price: 199.99,
-    productImage: product7,
-  },
-  {
-    id: 8,
-    productName: "Leather Jacket",
-    price: 199.99,
-    productImage: product8,
-  },
+
 ];
