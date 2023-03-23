@@ -27,7 +27,7 @@ export default function Footer() {
                     </div>
                     <div class="office-des">
                         <p>here are  many variations of passages of Lorem Ipsum available</p>
-                        <a href="#">manikmaity.haker2003@gmail.com</a>
+                        <a href="#">Store@mail.com</a>
 
                         <p class="num">+91-9999999999</p>
                     </div>
